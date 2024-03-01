@@ -39,6 +39,15 @@
             "link": ""
           }
         },
+        "column_Q8MJzQ": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Some days I used it all over as foundation because it’s just that good!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_zpPEqr": {
           "type": "column",
           "settings": {
@@ -98,6 +107,7 @@
         "column_UVXpVC",
         "column_RNjbMW",
         "column_CKGzeB",
+        "column_Q8MJzQ",
         "column_zpPEqr",
         "column_B3pWje",
         "column_jcej6D",
