@@ -1,12 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ['./**/*.{json,js,liquid}'],
+  content: ['./**/*.liquid'],
   theme: {
-    extend: {
-      fontFamily: {
-        nunito: ['nunito', 'sans-serif'],
-      },
-    },
+    extend: {},
   },
   plugins: [],
 };
