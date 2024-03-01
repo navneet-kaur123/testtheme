@@ -5,7 +5,7 @@
       "settings": {
         "custom_liquid": "<video width=\"100%\" height=\"auto\" class=\"video-desktop\" autoplay=\"\" loop=\"\" muted=\"\" playsinline=\"\">\n<source width=\"50%\" height=\"530\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0308\/1093\/1245\/files\/VREA_HOME_PAGE_VIDEO_wide.m4v?v=1634097550\" type=\"video\/mp4\">        \t\t<\/video>",
         "color_scheme": "",
-        "padding_top": 40,
+        "padding_top": 12,
         "padding_bottom": 52
       }
     }
