@@ -2,7 +2,11 @@
 module.exports = {
   content: ['./**/*.{json,js,liquid}'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        nunito: ['nunito', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 };
