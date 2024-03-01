@@ -41,6 +41,7 @@
         },
         "column_Q8MJzQ": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "<p>Some days I used it all over as foundation because it’s just that good!<\/p>",
@@ -50,6 +51,7 @@
         },
         "column_zpPEqr": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "<p>VREA concealer is extremely hydrating & didn’t settle into my fine lines<\/p>",
@@ -59,6 +61,7 @@
         },
         "column_B3pWje": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "",
             "text": "<p>This concealer helped with eye area dryness.<\/p>",
