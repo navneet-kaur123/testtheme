@@ -2,6 +2,9 @@
   "sections": {
     "custom_liquid_iMU4pn": {
       "type": "custom-liquid",
+      "custom_css": [
+
+      ],
       "settings": {
         "custom_liquid": "<video width=\"100%\" height=\"auto\" class=\"video-desktop\" autoplay=\"\" loop=\"\" muted=\"\" playsinline=\"\">\n<source width=\"50%\" height=\"530\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0308\/1093\/1245\/files\/VREA_HOME_PAGE_VIDEO_wide.m4v?v=1634097550\" type=\"video\/mp4\">        \t\t<\/video>",
         "color_scheme": "",
@@ -122,11 +125,50 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_Henmhq": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_bp664V": {
+          "type": "heading",
+          "settings": {
+            "heading": "Beauty Co-Created By Consumers, Driven By Science & Results.",
+            "heading_size": "h0"
+          }
+        },
+        "text_RP64fk": {
+          "type": "text",
+          "settings": {
+            "text": "<p> I founded VREA in response to the misleading information sold to us as consumers. I’m an esthetician & makeup artist, and for years I've used my voice against the myths, false claims, greenwashing & other agendas flooding the beauty industry. <\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_bp664V",
+        "text_RP64fk"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/girl.webp",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "section_color_scheme": "",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "custom_liquid_iMU4pn",
     "multicolumn_C4WE9A",
-    "featured_collection_XQThG7"
+    "featured_collection_XQThG7",
+    "image_with_text_Henmhq"
   ]
 }
