@@ -11,10 +11,26 @@
             "text": "VEGAN | LEAPING BUNNY CERTIFIED",
             "link": ""
           }
+        },
+        "announcement_GFk8nL": {
+          "type": "announcement",
+          "settings": {
+            "text": "FREE U.S. SHIPPING OVER $50",
+            "link": ""
+          }
+        },
+        "announcement_zzBkrK": {
+          "type": "announcement",
+          "settings": {
+            "text": "ACTIVE SKINCARE INGREDIENTS | CLEAN",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "announcement_GFk8nL",
+        "announcement_zzBkrK"
       ],
       "settings": {
         "color_scheme": "",
